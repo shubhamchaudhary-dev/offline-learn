@@ -1,0 +1,18 @@
+{
+  "title": "English Grammar",
+  "topics": [
+    { "name": "Parts of Speech", "content": "Noun, Pronoun, Verb, Adjective, etc." },
+    { "name": "Tenses", "content": "Past, Present, Future." },
+    { "name": "Active and Passive Voice", "content": "Sentence transformation form." },
+    { "name": "Direct and Indirect Speech", "content": "Reported speech rules." },
+    { "name": "Articles", "content": "A, An, The." },
+    { "name": "Prepositions", "content": "In, On, At, Under." }
+  ],
+  "quiz": [
+    { "question": "Past tense of go?", "options": ["Went", "Goed", "Gone"], "answer": 0 },
+    { "question": "Article before apple?", "options": ["A", "An", "The"], "answer": 1 },
+    { "question": "Verb shows?", "options": ["Action", "Color", "Shape"], "answer": 0 },
+    { "question": "Preposition example?", "options": ["Under", "Quickly", "Blue"], "answer": 0 },
+    { "question": "Future tense uses?", "options": ["Will", "Was", "Had"], "answer": 0 }
+  ]
+}

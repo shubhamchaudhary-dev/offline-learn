@@ -1,0 +1,18 @@
+{
+  "title": "Computer Science Basics",
+  "topics": [
+    { "name": "What is a Computer?", "content": "An electronic machine that processes data." },
+    { "name": "CPU", "content": "Brain of the computer." },
+    { "name": "Memory", "content": "RAM and ROM are types of memory." },
+    { "name": "Operating System", "content": "Manages hardware and software." },
+    { "name": "Programming", "content": "Writing instructions for computers." },
+    { "name": "Internet", "content": "Global network of computers." }
+  ],
+  "quiz": [
+    { "question": "Brain of computer?", "options": ["CPU", "Mouse", "Monitor"], "answer": 0 },
+    { "question": "RAM is?", "options": ["Temporary memory", "Permanent memory", "CPU"], "answer": 0 },
+    { "question": "OS does?", "options": ["Manage system", "Cook food", "Sing"], "answer": 0 },
+    { "question": "Programming means?", "options": ["Coding", "Painting", "Singing"], "answer": 0 },
+    { "question": "Internet is?", "options": ["Network", "Printer", "Keyboard"], "answer": 0 }
+  ]
+}

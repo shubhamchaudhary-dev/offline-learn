@@ -1,0 +1,18 @@
+{
+  "title": "Math Class 10",
+  "topics": [
+    { "name": "Quadratic Equations", "content": "A quadratic equation has the form ax^2 + bx + c = 0 where a ≠ 0." },
+    { "name": "Arithmetic Progression", "content": "An AP is a sequence where difference between consecutive terms is constant." },
+    { "name": "Triangles", "content": "Triangles have three sides and three angles. Sum of angles is 180°." },
+    { "name": "Trigonometry Basics", "content": "sinθ = opposite/hypotenuse, cosθ = adjacent/hypotenuse." },
+    { "name": "Probability", "content": "Probability = favorable outcomes / total outcomes." },
+    { "name": "Statistics", "content": "Mean = sum of observations / total observations." }
+  ],
+  "quiz": [
+    { "question": "General form of quadratic equation?", "options": ["ax^2+bx+c=0", "ax+b=0", "x^2+1=0"], "answer": 0 },
+    { "question": "Sum of angles in triangle?", "options": ["90°", "180°", "360°"], "answer": 1 },
+    { "question": "Formula of probability?", "options": ["n/m", "favorable/total", "a+b"], "answer": 1 },
+    { "question": "sinθ equals?", "options": ["adj/hyp", "opp/hyp", "base/height"], "answer": 1 },
+    { "question": "Mean formula?", "options": ["sum/n", "n/sum", "n×sum"], "answer": 0 }
+  ]
+}

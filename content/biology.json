@@ -1,0 +1,18 @@
+{
+  "title": "Biology Class 10",
+  "topics": [
+    { "name": "Cell Structure", "content": "Cell is basic unit of life." },
+    { "name": "Photosynthesis", "content": "Plants convert sunlight into food." },
+    { "name": "Respiration", "content": "Process of releasing energy from food." },
+    { "name": "Human Digestive System", "content": "Digestion begins in mouth." },
+    { "name": "Reproduction", "content": "Process of producing offspring." },
+    { "name": "Heredity", "content": "Traits are passed from parents to offspring." }
+  ],
+  "quiz": [
+    { "question": "Basic unit of life?", "options": ["Cell", "Tissue", "Organ"], "answer": 0 },
+    { "question": "Photosynthesis needs?", "options": ["Sunlight", "Darkness", "Stone"], "answer": 0 },
+    { "question": "Digestion begins in?", "options": ["Stomach", "Mouth", "Liver"], "answer": 1 },
+    { "question": "Heredity means?", "options": ["Inheritance", "Mutation", "Infection"], "answer": 0 },
+    { "question": "Respiration releases?", "options": ["Energy", "Water", "Stone"], "answer": 0 }
+  ]
+}

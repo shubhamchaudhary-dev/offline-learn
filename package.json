@@ -1,0 +1,50 @@
+{
+  "name": "offline-learn",
+  "version": "1.0.0",
+  "description": "Offline-first CLI learning system",
+  "main": "bin/index.js",
+  "bin": {
+    "offline-learn": "./bin/index.js",
+    "list": "./bin/list.js",
+    "fetch": "./bin/fetch.js",
+    "search": "./bin/search.js",
+    "test": "./bin/test.js",
+    "progress": "./bin/progress.js",
+    "dashboard": "./bin/dashboard.js",
+    "export": "./bin/export.js",
+    "leaderboard": "./bin/leaderboard.js",
+    "share": "./bin/share.js",
+    "join": "./bin/join.js"
+  },
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "cli-table3": "^0.6.5",
+    "commander": "^14.0.3",
+    "express": "^5.2.1",
+    "figlet": "^1.10.0",
+    "fs-extra": "^11.3.3",
+    "fuse.js": "^7.1.0",
+    "gradient-string": "^1.2.0",
+    "inquirer": "^8.2.7",
+    "lowdb": "^7.0.1",
+    "ora": "^5.4.1",
+    "pdfkit": "^0.17.2",
+    "qrcode-terminal": "^0.12.0",
+    "socket.io": "^4.8.3",
+    "socket.io-client": "^4.8.3",
+    "update-notifier": "^5.1.0",
+    "uuid": "^13.0.0"
+  }
+}
