@@ -32,28 +32,49 @@ Offline Learn ensures:
 
 ## 🎥 Demo Video
 
-📺 Watch Full Demo:  
-👉 **[[Add Your YouTube Link Here](https://www.youtube.com/watch?v=GVgb1UgsC_E)]** 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=GVgb1UgsC_E">
+    <img src="https://img.youtube.com/vi/GVgb1UgsC_E/maxresdefault.jpg" width="800" alt="Offline Learn Demo Video"/>
+  </a>
+</p>
+
+<p align="center">
+  ▶️ Click the image above to watch the full demo
+</p>
 
 ---
 
 ## 🖼 Screenshots
 
-### 📊 Terminal Dashboard
-![Dashboard Screenshot](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ef4dfb82-dd23-4552-8013-8b9b95c15238" />
-)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef4dfb82-dd23-4552-8013-8b9b95c15238" width="900"/>
+</p>
 
-### 📊 Progress Dashboard
-![Dashboard Screenshot](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/af924237-90f8-430d-b171-be0c637c8508" />
-)
+<p align="center"><b>Terminal Dashboard</b></p>
 
-### 📄 PDF Export
-![PDF Screenshot](<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/2173bf0e-97a4-4a7c-b25e-3c65327818b3" />
-)
+---
 
-### 📡 QR Code Sharing
-![QR Screenshot](<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ff4955cd-e331-4569-a213-2c3aa58a48a9" />
-)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/af924237-90f8-430d-b171-be0c637c8508" width="900"/>
+</p>
+
+<p align="center"><b>Progress Dashboard</b></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2173bf0e-97a4-4a7c-b25e-3c65327818b3" width="900"/>
+</p>
+
+<p align="center"><b>PDF Export</b></p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ff4955cd-e331-4569-a213-2c3aa58a48a9" width="900"/>
+</p>
+
+<p align="center"><b>QR Code Sharing</b></p>
 
 
 ---
