@@ -176,13 +176,13 @@ share math
 
 ---
 
-### LAN Sharing (Same PC)
+### LAN Sharing Client (Same PC)
 ```bash
 join http://localhost:5000
 ```
 ---
 
-### LAN Sharing (Different PC)
+### LAN Sharing Client (Different PC)
 
 ```bash
 join http://192.168.x.x:5000
@@ -356,5 +356,3 @@ Shubham Chaudhary
 
 ## 🏁 Final Statement
 Offline Learn transforms the command line into a complete offline education ecosystem.
-```
-
