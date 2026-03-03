@@ -176,10 +176,16 @@ share math
 
 ---
 
-### Join Shared Course
-
+### LAN Sharing (Same PC)
 ```bash
 join http://localhost:5000
+```
+---
+
+### LAN Sharing (Different PC)
+
+```bash
+join http://192.168.x.x:5000
 ```
 
 ---
