@@ -21,7 +21,6 @@ https://github.com/shubhamchaudhary-dev/offline-learn
 
 ## 🎥 Demo Video
 
-## Video
 [![Watch the Video](https://img.youtube.com/vi/GVgb1UgsC_E/hqdefault.jpg)](https://www.youtube.com/watch?v=GVgb1UgsC_E)
 
 ---
