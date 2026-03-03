@@ -210,6 +210,135 @@ Or if installed globally:
 offline-learn
 ```
 
+## 📦 Installation
+
+### 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/offline-learn.git
+cd offline-learn
+````
+
+### 2️⃣ Install Dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Install Globally
+
+```bash
+npm install -g .
+```
+
+---
+
+## 🚀 Usage
+
+### Show Help
+
+```bash
+offline-learn
+```
+
+---
+
+### Fetch a Course
+
+```bash
+offline-learn fetch math-class-10
+```
+
+Or simply:
+
+```bash
+fetch math-class-10
+```
+
+---
+
+### List Downloaded Courses
+
+```bash
+list
+```
+
+---
+
+### Search Topics
+
+```bash
+search quadratic
+```
+
+---
+
+### Take Quiz
+
+```bash
+test math-class-10
+```
+
+---
+
+### View Progress
+
+```bash
+progress
+```
+
+---
+
+### Open Dashboard
+
+```bash
+dashboard
+```
+
+---
+
+### Export PDF
+
+```bash
+export math-class-10
+```
+
+PDF will be saved in:
+
+```
+/exports/
+```
+
+---
+
+### Start Leaderboard Server
+
+```bash
+node server.js
+```
+
+View leaderboard:
+
+```bash
+leaderboard
+```
+
+---
+
+### Share Course (Host)
+
+```bash
+share math-class-10
+```
+
+---
+
+### Join Shared Course
+
+```bash
+join http://localhost:5000
+```
+
 ---
 
 ## 📁 Project Structure
