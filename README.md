@@ -26,13 +26,20 @@ https://github.com/shubhamchaudhary-dev/offline-learn
 
 ---
 
-## 📸 Preview
+## 📸 Snapshots
+Dashboard
 
 <img width="1919" height="1079" alt="Terminal Dashboard" src="https://github.com/user-attachments/assets/ef4dfb82-dd23-4552-8013-8b9b95c15238" />
 
+Progress Dashboard
+
 <img width="1919" height="1079" alt="Progress Dashboard" src="https://github.com/user-attachments/assets/af924237-90f8-430d-b171-be0c637c8508" />
 
+Export to PDF
+
 <img width="1919" height="1025" alt="PDF Export" src="https://github.com/user-attachments/assets/2173bf0e-97a4-4a7c-b25e-3c65327818b3" />
+
+Peer to Peer Sharing
 
 <img width="1919" height="1079" alt="QR Sharing" src="https://github.com/user-attachments/assets/ff4955cd-e331-4569-a213-2c3aa58a48a9" />
 
