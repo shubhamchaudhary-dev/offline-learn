@@ -44,6 +44,21 @@ https://github.com/shubhamchaudhary-dev/offline-learn
 
 ---
 
+## 📁 Project Structure
+
+```
+offline-learn/
+├── bin/
+├── lib/
+├── courses/
+├── exports/
+├── leaderboard-server/
+├── package.json
+└── README.md
+```
+
+---
+
 ## 🚀 How to Run
 
 ### 1️⃣ Clone Repository
@@ -59,7 +74,7 @@ cd offline-learn
 npm install
 ```
 
-### 3️⃣ Install Globally
+### 3️⃣ Install Globally (Imp.)
 
 ```bash
 npm install -g .
@@ -318,21 +333,6 @@ Perfect for classrooms and low-bandwidth environments.
 - Zero paid API dependency  
 - Minimal latency  
 - Fully portable  
-
----
-
-## 📁 Project Structure
-
-```
-offline-learn/
-├── bin/
-├── lib/
-├── courses/
-├── exports/
-├── leaderboard-server/
-├── package.json
-└── README.md
-```
 
 ---
 
